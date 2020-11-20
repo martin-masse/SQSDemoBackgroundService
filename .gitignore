@@ -1,0 +1,10 @@
+/appsettings.Development.json
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+logs/
+/.idea/
+*.DotSettings
+*.DotSettings.user
